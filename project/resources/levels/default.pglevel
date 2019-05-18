@@ -1,0 +1,115 @@
+{
+	"layers" : [
+		{
+			"name" : "bg1",
+			"z" : -500.000000
+		},{
+			"name" : "bg2",
+			"z" : -1000.000000
+		},{
+			"name" : "default",
+			"z" : 0.000000
+		}],
+	"units" : [
+		{
+			"name" : "units/ground/invisible_wall",
+			"translation" : [-2391.486084, 223.308777, 0.000000],
+			"scale" : [4.200001, 59.200012],
+			"layer" : 2
+		},{
+			"name" : "units/ground/invisible_wall",
+			"translation" : [1200.000000, -185.000000, 0.000000],
+			"scale" : [4.000000, 59.000000],
+			"layer" : 2
+		},{
+			"name" : "units/ground/ground",
+			"translation" : [-386.690186, -480.431793, 0.000000],
+			"scale" : [500.000000, 1.000000],
+			"layer" : 2
+		},{
+			"name" : "units/igloo/igloo",
+			"translation" : [-2219.521484, -263.403625, 0.000000],
+			"layer" : 2
+		}],
+	"sprites" : [
+		{
+			"name" : "sprites/cloud1",
+			"translation" : [-1392.381836, 466.493958, -1000.000000],
+			"scale" : [1.400000, 1.400000],
+			"layer" : 1
+		},{
+			"name" : "sprites/cloud1",
+			"translation" : [493.263672, 283.957581, 0.000000],
+			"rotation" : [0.000000, 180.000000, 0.000000],
+			"layer" : 1
+		},{
+			"name" : "sprites/cloud1",
+			"translation" : [1653.568604, 407.441101, 0.000000],
+			"layer" : 1
+		},{
+			"name" : "sprites/cloud1",
+			"translation" : [-2269.454102, 307.172974, 0.000000],
+			"rotation" : [0.000000, 180.000000, 0.000000],
+			"layer" : 1
+		},{
+			"name" : "sprites/cloud2",
+			"translation" : [172.722107, 443.516968, -1000.000000],
+			"scale" : [1.500000, 1.500000],
+			"layer" : 1
+		},{
+			"name" : "sprites/cloud3",
+			"translation" : [1335.998413, 325.290314, -1000.007324],
+			"scale" : [1.400000, 1.400000],
+			"layer" : 1
+		},{
+			"name" : "sprites/cloud1",
+			"translation" : [-83.243935, 505.781708, 0.008545],
+			"layer" : 0
+		},{
+			"name" : "sprites/cloud2",
+			"translation" : [-803.267822, 309.422180, -0.004883],
+			"rotation" : [0.000000, 180.000000, -0.019483],
+			"layer" : 0
+		},{
+			"name" : "sprites/cloud3",
+			"translation" : [-1668.144775, 473.280701, -0.002197],
+			"layer" : 0
+		},{
+			"name" : "sprites/mountain3",
+			"translation" : [-2992.938232, -286.970642, -1000.000000],
+			"scale" : [1.600000, 1.600000],
+			"layer" : 1
+		},{
+			"name" : "sprites/mountain3",
+			"translation" : [-586.300415, -360.117920, -1000.000000],
+			"scale" : [1.600000, 1.600000],
+			"layer" : 1
+		},{
+			"name" : "sprites/mountain1",
+			"translation" : [-1758.948730, -278.426025, -500.000000],
+			"scale" : [1.400000, 1.400000],
+			"layer" : 0
+		},{
+			"name" : "sprites/mountain2",
+			"translation" : [499.337280, -344.794434, -500.000000],
+			"scale" : [1.400000, 1.400000],
+			"layer" : 0
+		},{
+			"name" : "sprites/mountain2",
+			"translation" : [1803.848267, -343.080078, -500.000000],
+			"scale" : [1.400000, 1.400000],
+			"layer" : 0
+		},{
+			"name" : "sprites/letterbox",
+			"translation" : [-1791.998779, -439.095917, -0.000244],
+			"layer" : 2
+		},{
+			"name" : "sprites/snowman",
+			"translation" : [-10.293243, -361.310913, 0.000000],
+			"layer" : 2
+		},{
+			"name" : "sprites/sign",
+			"translation" : [122.516174, -383.884460, 0.000000],
+			"layer" : 2
+		}]
+}

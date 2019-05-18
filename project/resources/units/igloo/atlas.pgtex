@@ -1,0 +1,6 @@
+{
+	"type": "ATLAS",
+	"regions": {
+		"igloo": { "file": "units/igloo/textures/igloo.png" }
+	}
+}

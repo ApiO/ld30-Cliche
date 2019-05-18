@@ -1,0 +1,14 @@
+{
+  "template": "static",
+  "shapes": {
+    "shape_0": {
+      "template": "bullet_wall",
+      "material": "solid",
+      "shape": "units/ground/border",
+      "translation": [
+        -5,
+        -5
+      ]
+    }
+  }
+}

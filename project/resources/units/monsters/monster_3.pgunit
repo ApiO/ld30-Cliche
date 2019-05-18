@@ -1,0 +1,18 @@
+{
+  "nodes": {
+    "root": {}
+  },
+  "sprites": {
+    "main": {
+      "node": "root",
+      "template": "units/monsters/monster_3",
+      "order": 0
+    }
+  },
+  "actors": {
+    "main": {
+      "node": "root",
+      "actor": "units/monsters/monster_3_hitbox"
+    }
+  }
+}

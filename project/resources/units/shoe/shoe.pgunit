@@ -1,0 +1,19 @@
+{
+	"nodes" : {
+		"root" : {}
+	},
+	"actors" : {
+		"hitbox" : {
+			"node" : "root",
+			"actor" : "units/shoe/shoe_hitbox",
+			"translation" : [0, 0]
+		}
+	},
+	"sprites" : {
+		"bot" : {
+			"node" : "root",
+			"template" : "units/shoe/shoe",
+			"order" : 0
+		}
+	}
+}

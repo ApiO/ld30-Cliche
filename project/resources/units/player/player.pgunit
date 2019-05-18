@@ -1,0 +1,33 @@
+{
+	"nodes": {
+		"root" : {},
+		"main" : { 
+			"parent": "root", 
+			"translation" : [-84, 108] 
+		}
+	},
+	"actors": {
+		"box" : {
+			"node" : "root",
+			"actor" : "units/player/hitbox",
+			"translation" : [-100, 80]
+		}
+	},
+	"sprites" : {
+		"overlay" : {
+			"node" : "main",
+			"template" : "units/player/player",
+			"order" : 0
+		}
+	},
+	"movers" : {
+		"standing" : {
+			"height" : 80,
+			"radius" : 40,
+			"collision_filter": "mover",
+			"slope_limit": 45,
+			"step_offset": 50,
+			"offset": [-100,0]
+		}
+	}
+}

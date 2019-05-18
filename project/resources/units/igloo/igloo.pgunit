@@ -1,0 +1,19 @@
+{
+  "nodes": {
+    "root": {}
+  },
+  "sprites": {
+    "main": {
+      "node": "root",
+      "template": "units/igloo/igloo",
+	  "translation" : [0.00000, 54.00000, 0.00000],
+      "order": 0
+    }
+  },
+  "actors": {
+    "main": {
+      "node": "root",
+      "actor": "units/igloo/igloo"
+    }
+  }
+}

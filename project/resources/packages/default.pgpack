@@ -1,0 +1,21 @@
+{
+	"fonts"  : ["fonts/consolas.24/consolas.24"],
+	"levels" : ["levels/default"],
+	"sprites": [
+		"sprites/sun", 
+		"sprites/flake_blur",
+		"sprites/portal/portal_1",
+		"sprites/portal/portal_2",
+		"sprites/portal/portal_3"
+	],
+	"units": [
+		"units/player/player",
+		"units/bullet/bullet",
+		"units/shoe/shoe",
+		"units/ground/border",
+		"units/monsters/monster_1",
+		"units/monsters/monster_2",
+		"units/monsters/monster_3"
+	],
+    "particles": ["particles/flake_blur"]
+}

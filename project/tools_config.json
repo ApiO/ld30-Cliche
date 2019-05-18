@@ -1,0 +1,8 @@
+{
+	"project_name" : "ld30",
+	"console" : "C:/Console2/Console.exe",
+	"level_editor" : "C:/Users/Drio/Documents/pgtech/pgtech/platform/win32/build/Debug/level_editor.exe",
+	"source_path" : "C:/Users/Drio/Documents/pgtech/ld30/resources",
+	"data_path" :    "C:/Users/Drio/Documents/pgtech/ld30/data",
+	"game_path": "C:/Users/Drio/Documents/pgtech/ld30/code/build/Debug/ld30.exe"
+}

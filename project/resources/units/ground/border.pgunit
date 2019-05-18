@@ -1,0 +1,11 @@
+{
+  "nodes": {
+    "root": {}
+  },
+  "actors": {
+    "main": {
+      "node": "root",
+      "actor": "units/ground/border"
+    }
+  }
+}

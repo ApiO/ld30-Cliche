@@ -1,0 +1,14 @@
+{
+  "template": "static",
+  "shapes": {
+    "shape_0": {
+      "template": "ground",
+      "material": "solid",
+      "shape": "units/ground/ground",
+      "translation": [
+        -5,
+        -5
+      ]
+    }
+  }
+}

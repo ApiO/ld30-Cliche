@@ -1,0 +1,14 @@
+{
+  "template": "static",
+  "shapes": {
+    "shape_0": {
+      "template": "enemy_hitbox",
+      "material": "solid",
+      "shape": "units/monsters/monster_3_hitbox",
+      "translation": [
+        -80,
+        -70
+      ]
+    }
+  }
+}

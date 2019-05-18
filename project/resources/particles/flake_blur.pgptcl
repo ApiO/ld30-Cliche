@@ -1,0 +1,12 @@
+{
+	"loop"       : true,
+	"rate"       : 10,
+	"speed"      : 300,
+	"texture" : "sprites/flake_blur",
+	"lifespan"   : 10.0,
+	"angle"      : 360,
+	"gravity"    : [0, 100, 0],
+	"color_start": [255, 255, 255, 255],
+	"color_end"  : [0, 0, 0, 0],
+	"box"        : [20, 10, 0]
+}

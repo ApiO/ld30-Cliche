@@ -1,0 +1,19 @@
+{
+  "nodes": {
+    "root": {}
+  },
+  "sprites": {
+    "main": {
+      "node": "root",
+      "template": "units/monsters/monster_2",
+      "translation" : [0, 34],
+      "order": 0
+    }
+  },
+  "actors": {
+    "main": {
+      "node": "root",
+      "actor": "units/monsters/monster_2_hitbox"
+    }
+  }
+}

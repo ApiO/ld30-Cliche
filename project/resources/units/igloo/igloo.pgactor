@@ -1,0 +1,131 @@
+{
+  "template": "static",
+  "shapes": {
+    "shape_0": {
+      "template": "igloo",
+      "material": "solid",
+      "shape": "units/igloo/igloo_0",
+      "translation": [
+        -396.5,
+        -216
+      ]
+    },
+    "shape_1": {
+      "template": "igloo",
+      "material": "solid",
+      "shape": "units/igloo/igloo_1",
+      "translation": [
+        -396.5,
+        -216
+      ]
+    },
+    "shape_2": {
+      "template": "igloo",
+      "material": "solid",
+      "shape": "units/igloo/igloo_2",
+      "translation": [
+        -396.5,
+        -216
+      ]
+    },
+    "shape_3": {
+      "template": "igloo",
+      "material": "solid",
+      "shape": "units/igloo/igloo_3",
+      "translation": [
+        -396.5,
+        -216
+      ]
+    },
+    "shape_4": {
+      "template": "igloo",
+      "material": "solid",
+      "shape": "units/igloo/igloo_4",
+      "translation": [
+        -396.5,
+        -216
+      ]
+    },
+    "shape_5": {
+      "template": "igloo",
+      "material": "solid",
+      "shape": "units/igloo/igloo_5",
+      "translation": [
+        -396.5,
+        -216
+      ]
+    },
+    "shape_6": {
+      "template": "igloo",
+      "material": "solid",
+      "shape": "units/igloo/igloo_6",
+      "translation": [
+        -396.5,
+        -216
+      ]
+    },
+    "shape_7": {
+      "template": "igloo",
+      "material": "solid",
+      "shape": "units/igloo/igloo_7",
+      "translation": [
+        -396.5,
+        -216
+      ]
+    },
+    "shape_8": {
+      "template": "igloo",
+      "material": "solid",
+      "shape": "units/igloo/igloo_8",
+      "translation": [
+        -396.5,
+        -216
+      ]
+    },
+    "shape_9": {
+      "template": "igloo",
+      "material": "solid",
+      "shape": "units/igloo/igloo_9",
+      "translation": [
+        -396.5,
+        -216
+      ]
+    },
+    "shape_10": {
+      "template": "igloo",
+      "material": "solid",
+      "shape": "units/igloo/igloo_10",
+      "translation": [
+        -396.5,
+        -216
+      ]
+    },
+    "shape_11": {
+      "template": "igloo",
+      "material": "solid",
+      "shape": "units/igloo/igloo_11",
+      "translation": [
+        -396.5,
+        -216
+      ]
+    },
+    "shape_12": {
+      "template": "igloo",
+      "material": "solid",
+      "shape": "units/igloo/igloo_12",
+      "translation": [
+        -396.5,
+        -216
+      ]
+    },
+    "shape_13": {
+      "template": "igloo",
+      "material": "solid",
+      "shape": "units/igloo/igloo_13",
+      "translation": [
+        -396.5,
+        -216
+      ]
+    }
+  }
+}
