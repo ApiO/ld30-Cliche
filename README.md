@@ -36,6 +36,10 @@ This must be the shitiest submission ever done but I had to. By respect for my g
 
 At first I tried to simply focus myself on a classic WTF game but I quickly bored myself turning around with stereotypes. When suddenly I found The thing, a game, with only cliche !
 
+And here comes “She”. The all mighty and lovely Viking warrior, with a huge breast and a magic bow that throws fireballs (and other things). 
+
+You must help her to protect her igloo in antarctica against bad kamikaze zombies aliens villains. 
+
 **Why I failed ?**
 
 The project was too ambitious and with less than 10h of work, according to my actual skills, I could not hope for a better result.
